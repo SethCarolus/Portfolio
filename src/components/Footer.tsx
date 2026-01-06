@@ -9,7 +9,7 @@ function Footer() {
             <div
                 className='footer-left'>
                 <h3>Contact Me:</h3>
-                <p>Email: sethcarolus.software@gmail.com</p>
+                <p>Email: <i>sethcarolus.software@gmail.com</i></p>
             </div>
 
             <div
