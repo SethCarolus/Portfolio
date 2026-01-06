@@ -1,0 +1,26 @@
+
+.project {
+    display: flex;
+    flex-direction: column;
+    background-color: var(--bg--lighter-1);
+    border-radius: 12px;
+    overflow: hidden;
+
+    min-width: 10em;
+    max-width: 20em;
+    min-height: 10em;
+}
+
+
+.project:hover {
+    filter: brightness(0.8);
+}
+
+.project-footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: stretch;
+    padding: 1em;
+    gap: 1em;
+}

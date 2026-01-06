@@ -1,0 +1,76 @@
+[
+    {
+        "name": "Eco Eats",
+        "description": "Eco Eats is a desktop-based e-commerce platform built in Delphi. It simulates a food delivery app with features for product browsing, cart management, and order processing — developed for a school project.",
+        "image": "EcoEats.webp",
+        "link": "https://github.com/SethCarolus/Eco-Eats",
+        "technologies":
+        [
+            "Delphi",
+            "Microsoft Access",
+            "SQL"
+        ]
+    },
+    {
+        "name": "Attendance",
+        "description": "An Attendance tracker being built in C# using Avalonia UI, SQLite and Entity Framework.",
+        "image": "Attendance.webp",
+        "link": "https://github.com/SethCarolus/Attendance",
+        "technologies":
+        [
+            "C#",
+            "Avalonia UI",
+            "SQLite",
+            "Entity Framework"
+        ]
+    },
+    {
+        "name": "LCM",
+        "description": "LCM is a transport management app that coordinates daily rides for high school students. Built to improve safety, reliability, and convenience for parents and drivers. — developed for a school project.",
+        "image": "LCM.webp",
+        "link": "https://github.com/SethCarolus/LCM",
+        "technologies":
+        [
+            "Delphi",
+            "Microsoft Access",
+            "SQL"
+        ]
+    },
+    {
+        "name": "Pong Game",
+        "description": "Pong game implemented in C using the Raylib library.",
+        "image": "Pong.webp",
+        "link": "https://github.com/SethCarolus/Pong",
+        "technologies":
+        [
+            "C",
+            "Raylib",
+            "Premake"
+        ]
+    },
+    {
+        "name": "Goal Setting App",
+        "description": "A productivity-focused app built with C#, designed to help users track and manage personal goals. Utilizes Dapper for data access and SQLite for lightweight local storage.",
+        "image": "GoalSetting.webp",
+        "link": "https://github.com/SethCarolus/GoalSetting",
+        "technologies":
+        [
+            "C#",
+            "WinForms",
+            "Dapper",
+            "SQLite"
+        ]
+    },
+    {
+        "name": "Portfolio",
+        "description": "My Portfolio Website.",
+        "image": "Portfolio.webp",
+        "link": "https://github.com/SethCarolus/Portfolio",
+        "technologies":
+        [
+            "React",
+            "Typescript",
+            "CSS"
+        ]
+    }
+]

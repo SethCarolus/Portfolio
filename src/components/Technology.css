@@ -1,0 +1,14 @@
+
+.technology {
+    background-color: var(--bg--lighter-2);
+    height: 1em;
+    padding: 0.5em;
+    border-radius: 16px;
+    text-align: center;
+    align-content: center;
+    text-wrap-mode: nowrap;
+}
+
+.technology:hover {
+    background-color: var(--primary-color);
+}
