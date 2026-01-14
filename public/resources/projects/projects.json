@@ -1,17 +1,5 @@
 [
     {
-        "name": "Eco Eats",
-        "description": "Eco Eats is a desktop-based e-commerce platform built in Delphi. It simulates a food delivery app with features for product browsing, cart management, and order processing — developed for a school project.",
-        "image": "EcoEats.webp",
-        "link": "https://github.com/SethCarolus/Eco-Eats",
-        "technologies":
-        [
-            "Delphi",
-            "Microsoft Access",
-            "SQL"
-        ]
-    },
-    {
         "name": "Attendance",
         "description": "An Attendance tracker being built in C# using Avalonia UI, SQLite and Entity Framework.",
         "image": "Attendance.webp",
@@ -29,6 +17,30 @@
         "description": "LCM is a transport management app that coordinates daily rides for high school students. Built to improve safety, reliability, and convenience for parents and drivers. — developed for a school project.",
         "image": "LCM.webp",
         "link": "https://github.com/SethCarolus/LCM",
+        "technologies":
+        [
+            "Delphi",
+            "Microsoft Access",
+            "SQL"
+        ]
+    },
+    {
+        "name": "Tic-Tac-Toe",
+        "description": "A simple Tic-Tac-Toe game built in C++ using Raylib.",
+        "image": "TicTacToe.webp",
+        "link": "https://github.com/SethCarolus/Tic-Tac-Toe",
+        "technologies":
+        [
+            "C++",
+            "Raylib",
+            "C Make"
+        ]
+    },
+    {
+        "name": "Eco Eats",
+        "description": "Eco Eats is a desktop-based e-commerce platform built in Delphi. It simulates a food delivery app with features for product browsing, cart management, and order processing — developed for a school project.",
+        "image": "EcoEats.webp",
+        "link": "https://github.com/SethCarolus/Eco-Eats",
         "technologies":
         [
             "Delphi",
