@@ -2,7 +2,6 @@
 .header {
     background-color: var(--bg--lighter-1);
     display: flex;
-    flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
     height: 6em;
@@ -10,6 +9,18 @@
     gap: 1em;
     text-wrap-mode: nowrap;
 }
+
+
+@media (max-width: 680px) {
+
+    .header {
+        display: flex;
+        flex-direction: column;
+    }
+
+}
+
+
 
 .header nav {
     display: flex;
