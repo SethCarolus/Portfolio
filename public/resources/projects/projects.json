@@ -1,5 +1,19 @@
 [
   {
+    "name": "Chess",
+    "description": "Chess clone being built in C using Raylib",
+    "image": "Chess.webp",
+    "link": "https://github.com/SethCarolus/Chess",
+    "technologies": ["C", "Raylib", "C Make"]
+  },
+  {
+    "name": "Tetris",
+    "description": "Tetris clone built in C++ using Raylib.",
+    "image": "Tetris.webp",
+    "link": "https://github.com/SethCarolus/Tetris",
+    "technologies": ["C++", "Raylib", "C Make"]
+  },
+  {
     "name": "Attendance",
     "description": "An Attendance tracker being built in C# using Avalonia UI, SQLite and Entity Framework.",
     "image": "Attendance.webp",
@@ -47,12 +61,5 @@
     "image": "Portfolio.webp",
     "link": "https://github.com/SethCarolus/Portfolio",
     "technologies": ["React", "Typescript", "CSS"]
-  },
-  {
-    "name": "Tetris",
-    "description": "Tetris clone built in C++ using Raylib.",
-    "image": "Tetris.webp",
-    "link": "https://github.com/SethCarolus/Tetris",
-    "technologies": ["C++", "Raylib", "C Make"]
   }
 ]
